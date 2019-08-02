@@ -1,0 +1,17 @@
+{
+    "name": "xowap/test_php_file_exists",
+    "description": "Tests the behavior of PHP's \"file_exists()\" when presented a null character",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Rémy Sanchez",
+            "email": "remy.sanchez@hyperthese.net"
+        }
+    ],
+    "require": {
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
